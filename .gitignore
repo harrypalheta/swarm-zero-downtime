@@ -1,0 +1,8 @@
+*.log
+*.tgz
+*.zip
+apache-jmeter
+*.jtl
+*.csv
+temp
+results
